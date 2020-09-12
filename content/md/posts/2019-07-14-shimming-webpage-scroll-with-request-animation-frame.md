@@ -1,4 +1,4 @@
-{:title "Shim webpage scroll"
+{:title "Shim web scroll"
  :layout :post
  :author "Mochamad Lucky Pradana"   
  :tags  ["animation" "javascript" "event-scroll"]
